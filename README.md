@@ -9,4 +9,4 @@ Deepanshu-in/Deepanshu-in is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dipanshugupta921?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/deepanshu_40?ext=heatmap)
